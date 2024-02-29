@@ -4,9 +4,20 @@ Goodbye
 
 yes
 a
+<<<<<<< HEAD
+c & b & 5
+hello
+hello lisa and the rest of the workshop - time for conflict pls
+=======
 c & b & LG
 
 ok check
 
+<<<<<<< HEAD
 no one touch this
 
+=======
+>>>>>>> 7684f43450726b49483e7811574abe5fe00a1ea3
+>>>>>>> 1dd40fd0ae8f53f0206530e82f374e0254b2ee13
+
+Hello world, I'm a brand new branch
